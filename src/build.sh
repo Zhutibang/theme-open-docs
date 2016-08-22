@@ -16,3 +16,5 @@ lessc -clean-css src/less/ebook.less _assets/ebook/ebook.css
 # Copy styleguide
 mkdir -p _assets/website
 cp -R node_modules/gitbook-styleguide/assets/ _assets/website/
+
+cp -Rf _layouts/website/images/ _assets/website/images
