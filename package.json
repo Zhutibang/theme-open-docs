@@ -15,17 +15,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/theme-official.git"
+        "url": "https://github.com/zhutibang/theme-ztbcms-docs.git"
     },
     "author": "FriendCode Inc. <contact@gitbook.com>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/GitbookIO/theme-official/issues"
+        "url": "https://github.com/zhutibang/theme-ztbcms-docs/issues"
     },
     "contributors": [
         {
-            "name": "Samy Pessé",
-            "email": "samy@gitbook.com"
+            "name": "Jayin Ton",
+            "email": "tonjayin@gmail.com"
         }
     ]
 }
