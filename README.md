@@ -1,4 +1,4 @@
-# GitBook Official Theme
+# ZtbCMS Documentation Theme
 
-Offical theme for GitBook owned books. The style is using [styleguide](http://styleguide.gitbook.com).
+The style is using [ZtbCMS.com](http://ztbcms.com).
 
