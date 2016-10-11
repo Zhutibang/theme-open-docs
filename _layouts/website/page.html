@@ -68,11 +68,7 @@
 {% endif %} {% endfor %}
 <script>
     (function() {
-        gitbook.page.hasChanged({
-            {
-                template.getJSContext() | dump | safe
-            }
-        });
+        gitbook.page.hasChanged({{template.getJSContext() | dump | safe}});
     })();
 </script>
 {% endblock %}
