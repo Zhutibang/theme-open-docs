@@ -6,8 +6,8 @@
         <div class="container">
             {% block header %} {% block search_input %}{% endblock %}
 
-            <a href="{{ " / "|resolveFile }}" class="logo">
-                <img src="{{ " images/logo.png "|resolveAsset }}">
+            <a href="{{'/'|resolveFile }}" class="logo">
+                <img src="{{'images/logo.png'|resolveAsset }}">
                 <h1>{{ config.title }}</h1>
             </a>
 
@@ -60,7 +60,7 @@
     </footer>
 </div>
 
-<script src="{{ " gitbook.js "|resolveAsset }}"></script>
+<script src="{{'gitbook.js'|resolveAsset }}"></script>
 {% for resource in plugins.resources.js %} {% if resource.url %}
 <script src="{{ resource.url }}"></script>
 {% else %}
