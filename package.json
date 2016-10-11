@@ -1,7 +1,7 @@
 {
     "name": "gitbook-plugin-theme-open_fxb-docs",
     "description": "Official theme for docs.fenxiangbei.com documentations",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "engines": {
         "gitbook": ">=3.0.0-pre.8"
     },
