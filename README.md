@@ -1,4 +1,4 @@
-# ZtbCMS Documentation Theme
+# fenxiangbei Documentation Theme
 
-The style is using [ZtbCMS.com](http://ztbcms.com).
+The style is using [docs.fenxiangbei.com](http://docs.fenxiangbei.com).
 

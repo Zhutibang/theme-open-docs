@@ -1,6 +1,6 @@
 {
-    "name": "gitbook-plugin-theme-ztbcms-docs",
-    "description": "Official theme for ztbcms.com documentations",
+    "name": "gitbook-plugin-theme-open_fxb-docs",
+    "description": "Official theme for docs.fenxiangbei.com documentations",
     "version": "1.0.0",
     "engines": {
         "gitbook": ">=3.0.0-pre.8"
@@ -15,17 +15,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zhutibang/theme-ztbcms-docs.git"
+        "url": "https://github.com/zhutibang/theme-open-docs.git"
     },
     "author": "FriendCode Inc. <contact@gitbook.com>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/zhutibang/theme-ztbcms-docs/issues"
+        "url": "https://github.com/zhutibang/theme-open-docs/issues"
     },
-    "contributors": [
-        {
-            "name": "Jayin Ton",
-            "email": "tonjayin@gmail.com"
-        }
-    ]
+    "contributors": [{
+        "name": "zhlhuang",
+        "email": "zhlhuang888@foxmail.com"
+    }]
 }
